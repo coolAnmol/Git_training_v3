@@ -1,2 +1,2 @@
 This is sample file 2.
-Commit revert 1.
+Commit revert 1.This is Stash Lecture, Change in file 1

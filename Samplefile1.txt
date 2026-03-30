@@ -1,2 +1,6 @@
 This is sample file 1.
+<<<<<<< Updated upstream
 Commit revert 2.This is the Stash lecture, Change in Main file
+=======
+Commit revert 2.This is Stash Lecture, Change in file 2
+>>>>>>> Stashed changes
